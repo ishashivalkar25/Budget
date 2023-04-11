@@ -1,0 +1,5 @@
+npm i react-native-svg  
+npm i react-native-circular-progress-indicator
+npm install @react-navigation/native
+npm i @react-navigation/bottom-tabs
+ npm install react-native-month-year-picker --save
